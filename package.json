@@ -1,0 +1,11 @@
+{
+  "name": "doorbell",
+  "version": "1.0.0",
+  "description": "A script to run on a RaspberryPi and connect to a flic button acting as a doorbell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Heslop",
+  "license": "MIT"
+}

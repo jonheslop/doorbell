@@ -1,6 +1,7 @@
 {
   "name": "doorbell",
   "version": "1.0.0",
+  "repository": "git@github.com:jonheslop/doorbell.git",
   "description": "A script to run on a RaspberryPi and connect to a flic button acting as a doorbell",
   "main": "index.js",
   "scripts": {
